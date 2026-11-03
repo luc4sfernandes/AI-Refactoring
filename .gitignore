@@ -1,0 +1,11 @@
+# Artefatos de compilação
+*.o
+*.d
+*.exe
+*.out
+
+# Binário gerado pelo projeto Super Trunfo
+cadastro-cartas-super-trunfo/cadastro-cartas-super-trunfo
+
+# Configurações locais do VS Code
+.vscode/
