@@ -8,6 +8,14 @@
 *.class
 *.jar
 
+# Arquivos compactados
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+
 # Binário gerado pelo projeto Super Trunfo
 cadastro-cartas-super-trunfo/cadastro-cartas-super-trunfo
 
