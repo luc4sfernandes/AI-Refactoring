@@ -4,6 +4,10 @@
 *.exe
 *.out
 
+# Artefatos Java
+*.class
+*.jar
+
 # Binário gerado pelo projeto Super Trunfo
 cadastro-cartas-super-trunfo/cadastro-cartas-super-trunfo
 
